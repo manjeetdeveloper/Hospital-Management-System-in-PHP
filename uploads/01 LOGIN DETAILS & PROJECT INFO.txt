@@ -1,0 +1,15 @@
+**Log on to manjeetkyp24@gmail.com for more projects!**
+
+**Database Name: hmsci**
+
+**Developed by Manjeet Singh**
+
+**Recommended PHP version 5.6**
+
+
+**Admin Login Details**
+
+Email	: manjeet@gmail.com
+Password: Manjeet@12200996
+
+
