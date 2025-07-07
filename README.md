@@ -186,9 +186,9 @@ Accountants can:
 | S.No | Image                                       | Title           | Description                                         |
 | ---- | ------------------------------------------- | --------------- | --------------------------------------------------- |
 | 1    |  ![{B474382D-705C-450B-AC2D-E99AAE022E40}](https://github.com/user-attachments/assets/eb4b30cf-1949-488c-a7ff-ec4e8eb5404e)| Admin Dashboard | Overview of the hospital management admin panel.    |
-| 2    | ![Doctor Panel](images/doctor-panel.png)    | Doctor Panel    | Interface for managing doctors and their schedules. |
-| 3    | ![Patient Panel](images/patient-panel.png)  | Patient Panel   | View and manage patient information.                |
-| 4    | ![Appointment Page](images/appointment.png) | Appointments    | Book and manage patient appointments.               |
+| 2    | ![{83B1900A-6EFF-455A-9741-E89EE1374EDC}](https://github.com/user-attachments/assets/b0ec92d0-643f-410d-bc11-0fc68c4964d9)| Doctor Panel    | Interface for managing doctors and their schedules. |
+| 3    |  ![{B4233842-7645-4DCA-9EE0-50798B1F14C9}](https://github.com/user-attachments/assets/71731fb4-9d5d-45f7-9139-97f55e9b938e)| Patient Panel   | View and manage patient information.                |
+| 4    | ![{3AF6EBA2-C52F-43A6-9C4B-B33317A267F0}](https://github.com/user-attachments/assets/5b4e8f46-30e8-4fd3-8b2d-dc6c37b4464d)| Appointments    | Book and manage patient appointments.               |
 | 5    | ![Billing](images/billing.png)              | Invoice/Billing | Generate and view invoices for patients.            |
 | 6    | ![Report](images/reports.png)               | Reports         | Diagnosis and patient report view.                  |
 | 7    |  ![{B8E0DA57-5747-4AAC-A890-E43388FBB41E}](https://github.com/user-attachments/assets/d0bdccce-3272-433f-ab84-cf8bb34f43e0) | Department | Diagnosis and patient report view. |
