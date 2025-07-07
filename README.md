@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System in PHP CodeIgniter
+![{B8E0DA57-5747-4AAC-A890-E43388FBB41E}](https://github.com/user-attachments/assets/2f7a17b5-8db0-4f9a-8704-111e76e65f57)# 🏥 Hospital Management System in PHP CodeIgniter
 
 A complete Hospital Management System developed using **PHP with CodeIgniter** and **MySQL**. This web-based application is designed to manage hospital operations including patients, doctors, nurses, pharmacists, appointments, reports, bed allotments, invoices, and more.
 In particular, this Online Hospital Management System project in PHP CodeIgniter focuses mainly on keeping track of the patient’s activities. To be more precise, the system helps to keep track of hospitals’ doctors, patients, nurses, departments, and so on. Also, the system contains all the report management and bed allotments. In addition, the system allows for managing medicine categories, billings, and more. Evidently, this project contains an admin panel with a doctor, patient, nurse, accountant, and pharmacist panel. In an overview of this web application, a nurse has a minor role and control over the system. He/she can manage patients, view appointments, and report. Also, the user can manage bed ward, allotments, and blood banks where the nurse can add names of donors with blood details.
@@ -180,6 +180,22 @@ Accountants can:
 | **Database** | MySQL |
 | **UI Framework** | Bootstrap |
 | **Server** | Apache (via XAMPP) |
+
+---
+
+| S.No | Image                                       | Title           | Description                                         |
+| ---- | ------------------------------------------- | --------------- | --------------------------------------------------- |
+| 1    |  ![{B474382D-705C-450B-AC2D-E99AAE022E40}](https://github.com/user-attachments/assets/eb4b30cf-1949-488c-a7ff-ec4e8eb5404e)| Admin Dashboard | Overview of the hospital management admin panel.    |
+| 2    | ![Doctor Panel](images/doctor-panel.png)    | Doctor Panel    | Interface for managing doctors and their schedules. |
+| 3    | ![Patient Panel](images/patient-panel.png)  | Patient Panel   | View and manage patient information.                |
+| 4    | ![Appointment Page](images/appointment.png) | Appointments    | Book and manage patient appointments.               |
+| 5    | ![Billing](images/billing.png)              | Invoice/Billing | Generate and view invoices for patients.            |
+| 6    | ![Report](images/reports.png)               | Reports         | Diagnosis and patient report view.                  |
+| 7    |  ![{B8E0DA57-5747-4AAC-A890-E43388FBB41E}](https://github.com/user-attachments/assets/d0bdccce-3272-433f-ab84-cf8bb34f43e0) | Department | Diagnosis and patient report view. |
+| 6    | ![Report](images/reports.png)               | Reports         | Diagnosis and patient report view.                  |
+| 6    | ![Report](images/reports.png)               | Reports         | Diagnosis and patient report view.                  |
+
+
 
 ---
 
